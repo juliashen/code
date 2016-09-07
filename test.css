@@ -255,11 +255,13 @@ p.taiyi10 {
 .containergray {
 	width: auto;
 	min-height: 60%;
+	overflow: auto;
 }
 
 .containerblack {
 	width: auto;
 	min-height: 50%;
+	overflow: auto;
 }
 
 }
