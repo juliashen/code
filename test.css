@@ -330,7 +330,7 @@ img.taiyi5 {
 	display: block;
 	clear: both;
 	margin: 0;
-	padding-left: 29%;
+	padding: 0px auto;
 	width: auto;	
 
 }
