@@ -326,26 +326,6 @@ img.taiyi2 {
 
 }
 
-p.taiyi2 {
-	display: block;
-	clear: both;
-	padding-top: 1.4% 12% 0% 12%;
-	width: auto;
-	font-size: 75%;
-	line-height: 1.88em;
-	text-align: center;
-}
-
-
-img.taiyi3 {
-	display: block;
-	clear: both;
-	width: 70%;
-	padding: 4.4% 12% 0% 12%;
-	margin: 0px auto;
-	
-}
-
 
 img.taiyi5 {
 	display: block;
@@ -359,7 +339,7 @@ img.taiyi5 {
 	display: block;
 	clear: both;
 	margin: 0;
-	padding: 0px auto;
+	padding: 0 20%;
 	width: auto;	
 
 }
